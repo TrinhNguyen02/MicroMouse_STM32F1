@@ -1,0 +1,3 @@
+Control.c:16:5:constrain	24	static
+Control.c:26:6:leftMotor	24	static
+Control.c:45:6:rightMotor	16	static

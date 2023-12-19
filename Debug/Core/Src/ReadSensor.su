@@ -1,0 +1,5 @@
+ReadSensor.c:45:6:delay_us	16	static
+ReadSensor.c:51:8:kalman	32	static
+ReadSensor.c:64:6:HAL_TIM_IC_CaptureCallback	24	static
+ReadSensor.c:152:6:HCSR04_Read	8	static
+ReadSensor.c:165:6:HAL_TIM_PeriodElapsedCallback	16	static
